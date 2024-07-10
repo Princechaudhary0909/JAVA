@@ -1,0 +1,14 @@
+class human{
+int age;
+char name;
+
+public class man(int age,char name)
+{  return (age + name);
+ 
+}
+class main(){
+public static void main(string args[]);
+{
+human m = new human();
+system.out.println(m.man(5,prince);
+}}
