@@ -1,0 +1,20 @@
+class human
+{
+int age;
+char name;
+
+  public String man(int age,String name)
+{ 
+  //return (age + name);
+System.out.println("hello java");
+  return (age +" " + name +" ");
+  
+}}
+public class Main
+{
+  public static void main(String args[])
+  {
+    human m = new human();
+      System.out.println(m.man(5,"prince"));
+}
+}
